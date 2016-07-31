@@ -2,11 +2,11 @@
 
 Dear student,
 
-Follow theses instructions:
-Where ever you see the text <student>, change it to your name in lowercase.
+Follow these instructions:
 
-Please ensure you are watching this project through GITHUB  account.
-Fork this project using <student>_init as the fork name.
+
+Please ensure you are watching this project through *GITHUB*  account.
+Fork this project using <student>_init as the fork name. Whereever you see the text <student>, change it to your name in lowercase.
 
 In this fork create a directory named project_<student>.
 
