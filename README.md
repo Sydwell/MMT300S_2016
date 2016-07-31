@@ -4,11 +4,12 @@ Dear student,
 
 Follow these instructions:
 
-
 Please ensure you are watching this project through your _GITHUB_  account.
-Fork this project using `<student`>_init as the fork name. Wherever you see the text `<student`>, change it to your name in lowercase.
 
-In this fork create a file called _index.html_ in a directory named project_`<student`>.
+Fork this project.
+
+In this fork create a file called `<student`>_index.html_ in a directory named project_`<student`>.
+Wherever you see the text `<student`>, change it to your name in lowercase.
 
 
 
