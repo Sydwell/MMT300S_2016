@@ -8,10 +8,11 @@ Please ensure you are watching this project through your _GITHUB_  account.
 
 Fork this project.
 
-In this fork create a file called `<student`>_index.html_ in a directory named project_`<student`>.
+In this fork create a file called index.html_ in a directory named project_`<student`>.
 Wherever you see the text `<student`>, change it to your name in lowercase.
 
-Test PhP edit
+See merge changes in the main repo see:
+http://stackoverflow.com/a/30343766/344050
 
 
 
